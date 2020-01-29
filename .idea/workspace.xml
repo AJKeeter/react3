@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d00b00ee-e495-42fa-a394-8c91a2044267" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1580242701440</updated>
       <workItem from="1580242702784" duration="3587000" />
-      <workItem from="1580336441133" duration="851000" />
+      <workItem from="1580336441133" duration="1780000" />
     </task>
     <task id="LOCAL-00001" summary="adds .idea file">
       <created>1580337346261</created>
@@ -106,7 +107,35 @@
       <option name="project" value="LOCAL" />
       <updated>1580337607125</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Removes CSS code from app">
+      <created>1580337626963</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1580337626963</updated>
+    </task>
+    <task id="LOCAL-00007" summary="adds a dp.json file">
+      <created>1580337644251</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1580337644251</updated>
+    </task>
+    <task id="LOCAL-00008" summary="workspace.xml">
+      <created>1580337654110</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1580337654110</updated>
+    </task>
+    <task id="LOCAL-00009" summary="imports materialize">
+      <created>1580337814973</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1580337814973</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +160,10 @@
     <MESSAGE value="adds dependencies and a few custom commands for package.json and" />
     <MESSAGE value="Refactors code" />
     <MESSAGE value="Refactors code, removes service worker, logo, and removes the import from index.css" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactors code, removes service worker, logo, and removes the import from index.css" />
+    <MESSAGE value="Removes CSS code from app" />
+    <MESSAGE value="adds a dp.json file" />
+    <MESSAGE value="workspace.xml" />
+    <MESSAGE value="imports materialize" />
+    <option name="LAST_COMMIT_MESSAGE" value="imports materialize" />
   </component>
 </project>
