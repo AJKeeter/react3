@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d00b00ee-e495-42fa-a394-8c91a2044267" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/layout/Preloader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/layout/AddBtn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/logs/AddLogModal.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/logs/LogItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/logs/LogItem.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/logs/Logs.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/logs/Logs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +72,7 @@
       <updated>1580242701440</updated>
       <workItem from="1580242702784" duration="3587000" />
       <workItem from="1580336441133" duration="2521000" />
-      <workItem from="1580410930919" duration="5052000" />
+      <workItem from="1580410930919" duration="8078000" />
     </task>
     <task id="LOCAL-00001" summary="adds .idea file">
       <created>1580337346261</created>
@@ -188,7 +186,35 @@
       <option name="project" value="LOCAL" />
       <updated>1580419725913</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Imports log items and preloader. Integrates them into Logs.js">
+      <created>1580419770087</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1580419770087</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Integrates react-moment into the application">
+      <created>1580419801129</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1580419801129</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Creates Preloader file to include a loading function for main application">
+      <created>1580419825562</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1580419825562</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Workspace">
+      <created>1580419832025</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1580419832025</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,6 +250,10 @@
     <MESSAGE value="integrates materialize and a search-navbar to application" />
     <MESSAGE value="workspace." />
     <MESSAGE value="Styles and creates logItems to be imported by logs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Styles and creates logItems to be imported by logs" />
+    <MESSAGE value="Imports log items and preloader. Integrates them into Logs.js" />
+    <MESSAGE value="Integrates react-moment into the application" />
+    <MESSAGE value="Creates Preloader file to include a loading function for main application" />
+    <MESSAGE value="Workspace" />
+    <option name="LAST_COMMIT_MESSAGE" value="Workspace" />
   </component>
 </project>
