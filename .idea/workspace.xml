@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d00b00ee-e495-42fa-a394-8c91a2044267" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/layout/SearchBar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/logs/Logs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/layout/Preloader.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/logs/LogItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/logs/LogItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/logs/Logs.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/logs/Logs.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +74,7 @@
       <updated>1580242701440</updated>
       <workItem from="1580242702784" duration="3587000" />
       <workItem from="1580336441133" duration="2521000" />
-      <workItem from="1580410930919" duration="2844000" />
+      <workItem from="1580410930919" duration="5052000" />
     </task>
     <task id="LOCAL-00001" summary="adds .idea file">
       <created>1580337346261</created>
@@ -164,7 +167,28 @@
       <option name="project" value="LOCAL" />
       <updated>1580417160476</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="integrates materialize and a search-navbar to application">
+      <created>1580417180809</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1580417180809</updated>
+    </task>
+    <task id="LOCAL-00015" summary="workspace.">
+      <created>1580417187925</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1580417187925</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Styles and creates logItems to be imported by logs">
+      <created>1580419725913</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1580419725913</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,6 +221,9 @@
     <MESSAGE value="imports searchbar and logs, and integrates them into the main app" />
     <MESSAGE value="LogItem.js" />
     <MESSAGE value="Creates logs that display system info" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creates logs that display system info" />
+    <MESSAGE value="integrates materialize and a search-navbar to application" />
+    <MESSAGE value="workspace." />
+    <MESSAGE value="Styles and creates logItems to be imported by logs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Styles and creates logItems to be imported by logs" />
   </component>
 </project>
