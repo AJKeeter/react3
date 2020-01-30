@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d00b00ee-e495-42fa-a394-8c91a2044267" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/techs/AddTechModal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/techs/TechItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/techs/TechListModal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/layout/AddBtn.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout/AddBtn.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +73,7 @@
       <updated>1580242701440</updated>
       <workItem from="1580242702784" duration="3587000" />
       <workItem from="1580336441133" duration="2521000" />
-      <workItem from="1580410930919" duration="9742000" />
+      <workItem from="1580410930919" duration="10758000" />
     </task>
     <task id="LOCAL-00001" summary="adds .idea file">
       <created>1580337346261</created>
@@ -230,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580425504213</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Adds tech modal components to tech modal button">
+      <created>1580426959182</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1580426959182</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -272,6 +278,7 @@
     <MESSAGE value="Workspace" />
     <MESSAGE value="Adds button, modal to logs, and integrates them into the app.js" />
     <MESSAGE value="Integrates Edit Modal to application" />
-    <option name="LAST_COMMIT_MESSAGE" value="Integrates Edit Modal to application" />
+    <MESSAGE value="Adds tech modal components to tech modal button" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adds tech modal components to tech modal button" />
   </component>
 </project>
