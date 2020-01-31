@@ -1,18 +1,11 @@
 {
   "logs": [
     {
-      "message": "Added Flux Capacitor to DeLorean 0069",
+      "id": 2,
+      "message": "Deflector shields repaired in Sector #9",
       "attention": false,
-      "tech": "John Doe",
-      "date": "2020-01-31T21:37:59.380Z",
-      "id": 1
-    },
-    {
-      "message": "Deflector shields down in Sector #9",
-      "attention": true,
       "tech": "Sam Smith",
-      "date": "2020-01-31T21:38:25.027Z",
-      "id": 2
+      "date": "2020-01-31T22:49:12.853Z"
     },
     {
       "message": "Nuclear Reactor Meltdown 0004",
@@ -20,6 +13,13 @@
       "tech": "Sara Wilson",
       "date": "2020-01-31T21:38:57.235Z",
       "id": 3
+    },
+    {
+      "message": "segfgsgd",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2020-01-31T22:43:53.166Z",
+      "id": 4
     }
   ],
   "techs": [
