@@ -1,25 +1,25 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Changed hard drive on workstation 005",
+      "message": "Added Flux Capacitor to DeLorean 0069",
       "attention": false,
-      "date": "03-02-2019",
-      "tech": "Sam Smith"
+      "tech": "John Doe",
+      "date": "2020-01-31T21:37:59.380Z",
+      "id": 1
     },
     {
-      "id": 2,
-      "message": "Workstation 007 not posting",
+      "message": "Deflector shields down in Sector #9",
       "attention": true,
-      "date": "03-02-2019",
-      "tech": "John Doe"
+      "tech": "Sam Smith",
+      "date": "2020-01-31T21:38:25.027Z",
+      "id": 2
     },
     {
-      "id": 3,
-      "message": "Changed memory on workstation 050",
-      "attention": false,
-      "date": "03-02-2019",
-      "tech": "Sara Wilson"
+      "message": "Nuclear Reactor Meltdown 0004",
+      "attention": true,
+      "tech": "Sara Wilson",
+      "date": "2020-01-31T21:38:57.235Z",
+      "id": 3
     }
   ],
   "techs": [
