@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d00b00ee-e495-42fa-a394-8c91a2044267" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/techs/TechSelectOptions.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/actions/logActions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/logActions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/layout/SearchBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout/SearchBar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/logReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/logReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/actions/techActions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/techActions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/logs/AddLogModal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/logs/AddLogModal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/logs/EditLogModal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/logs/EditLogModal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/techs/AddTechModal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/techs/AddTechModal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reducers/techReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/techReducer.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +76,7 @@
       <workItem from="1580242702784" duration="3587000" />
       <workItem from="1580336441133" duration="2521000" />
       <workItem from="1580410930919" duration="18939000" />
-      <workItem from="1580584628773" duration="1368000" />
+      <workItem from="1580584628773" duration="3825000" />
     </task>
     <task id="LOCAL-00001" summary="adds .idea file">
       <created>1580337346261</created>
@@ -271,7 +274,21 @@
       <option name="project" value="LOCAL" />
       <updated>1580511010681</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="adds search bar functionality to application">
+      <created>1580587940314</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1580587940314</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Implements tech reducer action for loading techs from backend">
+      <created>1580589042973</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1580589042973</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -291,8 +308,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Refactors code" />
-    <MESSAGE value="Refactors code, removes service worker, logo, and removes the import from index.css" />
     <MESSAGE value="Removes CSS code from app" />
     <MESSAGE value="adds a dp.json file" />
     <MESSAGE value="workspace.xml" />
@@ -316,6 +331,8 @@
     <MESSAGE value="Connected redux to the logs component" />
     <MESSAGE value="Add and Delete functionality added to logs component" />
     <MESSAGE value="Log component was made update-able" />
-    <option name="LAST_COMMIT_MESSAGE" value="Log component was made update-able" />
+    <MESSAGE value="adds search bar functionality to application" />
+    <MESSAGE value="Implements tech reducer action for loading techs from backend" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implements tech reducer action for loading techs from backend" />
   </component>
 </project>
