@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d00b00ee-e495-42fa-a394-8c91a2044267" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/actions/logActions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/logActions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/logs/EditLogModal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/logs/EditLogModal.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/logs/LogItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/logs/LogItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/layout/SearchBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout/SearchBar.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/reducers/logReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/logReducer.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -74,7 +72,8 @@
       <updated>1580242701440</updated>
       <workItem from="1580242702784" duration="3587000" />
       <workItem from="1580336441133" duration="2521000" />
-      <workItem from="1580410930919" duration="18665000" />
+      <workItem from="1580410930919" duration="18939000" />
+      <workItem from="1580584628773" duration="1368000" />
     </task>
     <task id="LOCAL-00001" summary="adds .idea file">
       <created>1580337346261</created>
@@ -265,7 +264,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580507572564</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Log component was made update-able">
+      <created>1580511010681</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1580511010681</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -285,7 +291,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="adds dependencies and a few custom commands for package.json and" />
     <MESSAGE value="Refactors code" />
     <MESSAGE value="Refactors code, removes service worker, logo, and removes the import from index.css" />
     <MESSAGE value="Removes CSS code from app" />
@@ -310,6 +315,7 @@
     <MESSAGE value="adds GET LOGS SET LOADING AND LOGS ERROR to reducer and creates a types file." />
     <MESSAGE value="Connected redux to the logs component" />
     <MESSAGE value="Add and Delete functionality added to logs component" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add and Delete functionality added to logs component" />
+    <MESSAGE value="Log component was made update-able" />
+    <option name="LAST_COMMIT_MESSAGE" value="Log component was made update-able" />
   </component>
 </project>
